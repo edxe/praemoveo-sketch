@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "D679768A-7980-473E-90BF-311DF08621D9",
+  "do_objectID": "D2684F93-0B6C-4424-88E5-9679CF17865E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 2968,
-    "y": 57
+    "x": 1805,
+    "y": 89
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,46 +46,38 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "624F3FD0-CB4E-42FB-94EF-3442F85DD37F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2C940275-FD74-4CA3-8747-D0D530682D3F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F752B9A7-016A-4582-B41E-9B2602A48FB4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "26B297F3-3C57-481A-8A80-AABC5E983BFD"
-    },
-    {
-      "class": "group",
-      "id": "67BAF5DA-23CA-4A2E-A62F-CA9C04E70D59"
+      "id": "05855E29-EC09-4A91-8B2C-F9ABB13EF2B1"
     },
     {
       "class": "shapeGroup",
-      "id": "278135C3-C9C8-480D-8781-19477B492A24"
+      "id": "D16BF42C-CE1F-4D32-A730-5241921A8DE2"
     },
     {
-      "class": "group",
-      "id": "816D396B-3518-46B2-8E3F-0A7B81F7AE3D"
+      "class": "symbolInstance",
+      "id": "0050154C-CAF1-45A7-8A62-F7AFDB6AFBE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A37CFE5B-8988-4C24-997C-B8C7E4E691AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86B99453-2EA0-4DEE-8A29-B8AC03448ECB"
     },
     {
       "class": "shapeGroup",
-      "id": "7D3907F5-D77D-4D22-9C3E-5B39F0A069EF"
+      "id": "524F2B81-70AC-45A1-8252-CF2AE0453843"
     },
     {
-      "class": "text",
-      "id": "1C6F2DCC-CE74-428C-9FE9-9830CAFA8F60"
+      "class": "shapeGroup",
+      "id": "6B0587B0-22EF-43DF-A4F7-1A30C7BD2E8A"
     },
     {
-      "class": "text",
-      "id": "493031AA-7E48-4DF9-964E-875280FEA077"
+      "class": "shapeGroup",
+      "id": "B9D8D446-7A24-4FFD-961D-3880C98CDA3C"
     }
   ],
-  "name": "route selected copy",
+  "name": "route selected copy 3",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

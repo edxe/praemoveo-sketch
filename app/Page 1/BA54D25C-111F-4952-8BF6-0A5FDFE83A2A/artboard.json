@@ -125,8 +125,16 @@
       "id": "23DAC4C0-0556-4D6D-86B2-3419748C5DB8"
     },
     {
+      "class": "text",
+      "id": "19ACB1D7-BB36-4263-ADCA-9D534D65B6DE"
+    },
+    {
       "class": "group",
       "id": "DC3B61B8-DAB1-457F-AC6E-25B1C51A2F83"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C631DC6-816A-4FCF-A2D9-D48F10521E05"
     }
   ],
   "name": "route selected copy 2",

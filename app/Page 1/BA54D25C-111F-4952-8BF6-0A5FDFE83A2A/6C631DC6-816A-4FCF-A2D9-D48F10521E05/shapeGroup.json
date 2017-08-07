@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "A02253AA-4666-4067-AC91-F477D589C873",
+  "do_objectID": "6C631DC6-816A-4FCF-A2D9-D48F10521E05",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 71,
-    "width": 71,
-    "x": 272,
-    "y": 538
+    "height": 20,
+    "width": 11,
+    "x": 338,
+    "y": 143
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,21 +25,33 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "oval",
-      "id": "A8699D98-D719-4EB0-B934-0FDD07B6B385"
+      "id": "9717E83B-5F0F-4A4B-9330-D76C58AF8325"
+    },
+    {
+      "class": "shapePath",
+      "id": "D7130808-8B45-49D6-ADF4-1E2B5F28BB49"
     }
   ],
-  "name": "Oval 5",
-  "nameIsFixed": false,
+  "name": "here-pin",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.128205128205128,
+      "type": 0
+    },
     "borders": [
       {
         "_class": "border",
@@ -53,7 +65,7 @@
         "fillType": 0,
         "isEnabled": false,
         "position": 0,
-        "thickness": 1
+        "thickness": 0.5128205128205128
       }
     ],
     "endDecorationType": 0,
@@ -63,19 +75,41 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.2288648083325818,
+          "green": 0.2288648083325818,
+          "red": 0.2289009353741497
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
   "userInfo": {

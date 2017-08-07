@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "A02253AA-4666-4067-AC91-F477D589C873",
+  "do_objectID": "D16BF42C-CE1F-4D32-A730-5241921A8DE2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 71,
-    "width": 71,
-    "x": 272,
-    "y": 538
+    "height": 14,
+    "width": 14,
+    "x": 196,
+    "y": 300
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,37 +25,30 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "oval",
-      "id": "A8699D98-D719-4EB0-B934-0FDD07B6B385"
+      "id": "A7477E62-8017-4805-98E7-823FBF7389DD"
+    },
+    {
+      "class": "rectangle",
+      "id": "BA8F7697-6ACC-48E3-B35F-A6A002ACFCE8"
+    },
+    {
+      "class": "rectangle",
+      "id": "2B740E18-E636-41C7-90D1-A16A418DD14C"
     }
   ],
-  "name": "Oval 5",
+  "name": "Clear",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
-  "resizingType": 0,
+  "originalObjectID": "4BA73B48-4750-4D4C-AA85-308DE7871161",
+  "resizingConstraint": 36,
+  "resizingType": 1,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -63,15 +56,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.5803921568627451,
+          "green": 0.5568627450980392,
+          "red": 0.5607843137254902
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],
