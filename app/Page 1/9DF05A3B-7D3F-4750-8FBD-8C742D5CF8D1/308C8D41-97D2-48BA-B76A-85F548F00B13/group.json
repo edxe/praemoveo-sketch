@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "308C8D41-97D2-48BA-B76A-85F548F00B13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 375,
+    "x": 0,
+    "y": 306
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3D6DD7D3-3507-4B8A-8804-A6456CDA3A99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2305898F-12A5-4823-B176-6F153D15FAAA"
+    },
+    {
+      "class": "text",
+      "id": "0F23151F-AD73-42DF-BA0E-DF64D1C7D1BF"
+    }
+  ],
+  "name": "paadas",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

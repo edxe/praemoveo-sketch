@@ -1,0 +1,91 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "340D759B-36D7-4703-9C6E-DFCA70D72D3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 331,
+    "x": 552,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DEC4B4B2-C666-42F1-8086-0EA9DEFDCA04"
+    },
+    {
+      "class": "text",
+      "id": "83FC1B12-8DB0-41CD-81C6-41994C6BD845"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "59462742-80DD-4AFB-BFA3-A686AE48DB9F"
+    },
+    {
+      "class": "text",
+      "id": "0CDC4BBE-3449-400D-B84A-62B8761157C2"
+    },
+    {
+      "class": "text",
+      "id": "E34CCFB6-AF7A-42C8-A1AD-C542DDA985A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F20BCE5-704C-4CF2-8100-520F38E22400"
+    }
+  ],
+  "name": "Eta Caguas",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "965F3ABC-0A18-42B9-A3C6-0651E82DE3D4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

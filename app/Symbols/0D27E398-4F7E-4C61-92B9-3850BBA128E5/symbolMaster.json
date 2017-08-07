@@ -1,0 +1,91 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "0D27E398-4F7E-4C61-92B9-3850BBA128E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 331,
+    "x": 552,
+    "y": 76
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9CBC45EE-55F0-4C2C-8ECB-7180058FAA73"
+    },
+    {
+      "class": "text",
+      "id": "2682DA72-20D8-462A-860E-A26460CFA3CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "65AA6268-EEE1-4991-BC25-1B25087B699E"
+    },
+    {
+      "class": "text",
+      "id": "EADF5039-0EBE-4393-8C25-A33552A55B82"
+    },
+    {
+      "class": "text",
+      "id": "B8BBF7A8-5ECC-481D-80CD-AC2C9DB9008D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4531570-D63C-4CAD-B2F9-AC56B052AEAB"
+    }
+  ],
+  "name": "Eta Bo. Beatriz",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FEB9E525-EA1E-4E6D-A073-105B4A222313",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

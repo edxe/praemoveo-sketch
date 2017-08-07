@@ -1,0 +1,128 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 381,
+  "do_objectID": "5CD2C44F-5314-4A8C-9092-847846AB1678",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 107,
+    "width": 100,
+    "x": 5452,
+    "y": 67
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4C16F96F-1BB0-4310-ACEF-6B883F948EC9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B2212238-2CE1-4D44-86F2-0F50A4726D14"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B615357-EBE5-4258-8DDD-4FD3E0A0C910"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4047C60E-78AE-497F-B876-483D16B4F273"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "80792DEB-30D6-41BB-A7DA-60125E150FFB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C4B64F8-B582-41BE-860E-8FD07173D65E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A55FE02-075C-4BF1-A04A-1E27A88D2CD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "101AF91C-936E-49C4-814A-51AA72BD7D1A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE22F124-C968-441B-82FD-5870D67E66BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02BEC456-33F6-44A9-821F-57CA2FB93FDE"
+    },
+    {
+      "class": "group",
+      "id": "9B4AEDF4-D8BE-4E13-AF57-D2AABBD28052"
+    },
+    {
+      "class": "group",
+      "id": "2C38D944-D5E4-48A4-9F50-C292EDBDF65B"
+    }
+  ],
+  "name": "bus",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.424778761061948,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4EEF2A0C-D540-43C4-98FD-388EAB54462D",
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

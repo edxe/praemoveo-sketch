@@ -1,0 +1,103 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 0,
+  "do_objectID": "53B655AB-93BD-4937-B448-604AC6B84DE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 57,
+    "width": 375,
+    "x": 1458,
+    "y": 106
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D947D802-BA1F-41BD-8B54-8326D81DA26A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78C8CF01-0C92-4916-A606-377311E9FB25"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52B704B9-2B47-48E3-8B46-841FC6CB8545"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D827C95F-26F2-4887-A6E0-ED74934D6722"
+    },
+    {
+      "class": "text",
+      "id": "58C11642-DE49-44FE-8FC0-49BFE18F9D6F"
+    },
+    {
+      "class": "text",
+      "id": "8A9487B3-9A83-47C9-B131-3A5D5C9070E2"
+    },
+    {
+      "class": "group",
+      "id": "56FAB4C0-ED41-4404-BDDF-D02D438FC982"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "94C3F5D6-89DC-4BD1-8347-AB51CE3DA7F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20E923C0-2DC9-4769-AECB-FA04E4AA3C15"
+    }
+  ],
+  "name": "Route View Centro Medico",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "15F9D1A2-CEAD-4031-85E9-1A426518C00C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
