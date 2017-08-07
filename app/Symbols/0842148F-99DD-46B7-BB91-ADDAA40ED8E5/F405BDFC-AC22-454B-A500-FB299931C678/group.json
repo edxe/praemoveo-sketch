@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "F405BDFC-AC22-454B-A500-FB299931C678",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 367,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DEF94D8D-883F-4AF3-9033-85F807076E98"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31C00967-B44F-468E-BDA8-E80F8BC49315"
+    },
+    {
+      "class": "text",
+      "id": "5D08A2BA-1008-44EF-85BC-B1974688C85D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CC181AC-241A-47F5-89A2-3D411E84A3E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3EDE6429-2290-4B73-BF33-3C91E1267617"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFDE6563-F510-445A-B111-511C453190F0"
+    }
+  ],
+  "name": "route-eta",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

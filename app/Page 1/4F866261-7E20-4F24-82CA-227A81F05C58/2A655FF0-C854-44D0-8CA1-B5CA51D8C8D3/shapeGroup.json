@@ -83,5 +83,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
   "windingRule": 1
 }
