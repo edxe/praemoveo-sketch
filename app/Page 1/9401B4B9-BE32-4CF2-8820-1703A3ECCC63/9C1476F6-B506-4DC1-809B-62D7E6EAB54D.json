@@ -60,7 +60,8 @@
         },
         "NSStrikethrough": 0,
         "NSUnderline": 1
-      }
+      },
+      "verticalAlignment": 0
     }
   },
   "textBehaviour": 0,
