@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -49,
+    "x": -529,
     "y": 89
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,19 +39,95 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5BE92C08-4E53-4A0D-ACC7-04B7407C62B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E69BF245-EAB2-4F62-B298-B47A3C973593"
+    },
+    {
+      "class": "group",
+      "id": "86243461-6578-48C3-81A1-CCD5CE0F0842"
+    },
     {
       "class": "text",
       "id": "EA7F05C0-EDDC-4A95-89F0-965E621083B5"
     },
     {
       "class": "text",
-      "id": "019BD113-3F71-41D4-866E-813F1670565C"
+      "id": "0C0C0DA5-CB0E-44C8-A51E-57EFA71F1F71"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "59053B60-4665-4AC0-89FD-3FA13BCF923B"
+    },
+    {
+      "class": "text",
+      "id": "ADF864DE-F3AC-4AF9-9455-5FF3C3021B05"
+    },
+    {
+      "class": "text",
+      "id": "70A20D52-B4D6-4463-B0D9-A862B6E01F7E"
+    },
+    {
+      "class": "text",
+      "id": "0C1E2B6C-2746-4D6A-A36F-70769CCBEFB8"
+    },
+    {
+      "class": "text",
+      "id": "13C22D19-40C9-443C-B609-FAB461991E09"
+    },
+    {
+      "class": "text",
+      "id": "8FA67983-7F9E-4E5A-AB3A-D8119E2E86DE"
+    },
+    {
+      "class": "text",
+      "id": "6D4127FE-365B-4F63-853F-EF08AFE9CE85"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8D60442-12A6-48B7-A7FE-274D39CC9301"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57A5A76A-28B5-45A4-B533-676CE4A6B9FA"
+    },
+    {
+      "class": "text",
+      "id": "4DB89547-CF35-402D-AA1A-100426D349FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93D892D9-9E12-426F-8237-5F856CDE5772"
+    },
+    {
+      "class": "text",
+      "id": "B51BD201-10D3-4BB4-B5F4-0500246E5B7E"
+    },
+    {
+      "class": "text",
+      "id": "7F2E0299-BE3E-42FD-8B8B-34EB99FF33E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D4F5E64E-134A-4874-B165-B45194AC0136"
+    },
+    {
+      "class": "text",
+      "id": "888E582E-60B6-4E07-95D6-93662B7739E5"
+    },
+    {
+      "class": "text",
+      "id": "8DDC5ED1-EE71-486C-BD0B-6813D32494DA"
     }
   ],
-  "name": "iPhone 7",
-  "nameIsFixed": false,
+  "name": "Pago",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,6 +156,11 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

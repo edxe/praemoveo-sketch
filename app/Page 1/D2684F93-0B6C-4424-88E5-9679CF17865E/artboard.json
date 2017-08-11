@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 1805,
+    "x": 1800,
     "y": 89
   },
   "hasBackgroundColor": false,
@@ -81,7 +81,7 @@
       "id": "3A5906EA-E9F1-44A0-9A7C-ED02B5FD07F5"
     }
   ],
-  "name": "route selected copy 3",
+  "name": "route-selector-pin",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

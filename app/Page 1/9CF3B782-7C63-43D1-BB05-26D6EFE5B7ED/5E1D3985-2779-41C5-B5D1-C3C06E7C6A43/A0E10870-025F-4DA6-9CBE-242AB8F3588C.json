@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Shipping",
   "nameIsFixed": false,
-  "resizingConstraint": 49,
+  "resizingConstraint": 33,
   "resizingType": 2,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -63,5 +63,10 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
 }

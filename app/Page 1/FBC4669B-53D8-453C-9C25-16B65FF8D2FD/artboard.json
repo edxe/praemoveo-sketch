@@ -26,7 +26,7 @@
     "y": -763
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -62,7 +62,7 @@
       "id": "090CC677-2EBF-446F-81DF-292B35F3A22E"
     }
   ],
-  "name": "route-schedule-detail copy",
+  "name": "route-schedule-detail 1",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

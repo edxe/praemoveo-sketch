@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 423,
+    "x": -57,
     "y": 89
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,6 +46,18 @@
     {
       "class": "shapeGroup",
       "id": "2323F0B6-AD1D-44CA-82E0-2021B9F029B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3A58F7C-C920-4202-A4AF-EA311BAB7AC6"
+    },
+    {
+      "class": "text",
+      "id": "2B854A16-75C5-4C9C-817A-F57D241F90C1"
+    },
+    {
+      "class": "text",
+      "id": "65E11833-3FE5-47DB-BADC-3EF505A42744"
     },
     {
       "class": "shapeGroup",
@@ -69,15 +81,7 @@
     },
     {
       "class": "text",
-      "id": "850ADF7C-C81D-41CE-9A37-9F86F5F41445"
-    },
-    {
-      "class": "text",
       "id": "7FA3FE0F-2382-411F-8B92-097EA625D690"
-    },
-    {
-      "class": "text",
-      "id": "88A9A853-6EC0-4CED-B191-FDA761D2AD60"
     },
     {
       "class": "group",
@@ -92,7 +96,7 @@
       "id": "763FDA61-4391-4431-93EC-8A08DB772157"
     }
   ],
-  "name": "route-schedule-detail copy 2",
+  "name": "confirmacion-pago",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
