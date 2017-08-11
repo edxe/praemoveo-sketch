@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -47,79 +47,23 @@
     },
     {
       "class": "shapeGroup",
-      "id": "29824E2C-B0C1-4E33-AA26-9355CA08794F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A35F63A8-6BD7-425F-8979-FF1C14F991D9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C5BFAA75-F229-4FE2-B2E0-F9BD76DDD806"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "318F8CA5-15E1-442D-8741-1BDAB4B8F55C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "185BC1C2-53EE-4DB3-8C7C-D93A9A93D197"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "539275A2-A5D1-4379-A763-8BBC97495FE5"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8C313F28-BDEC-4E0E-B363-5CACE11AB92E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0D99F923-91EF-4237-94DB-6AE2274D6A26"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "79DE08C2-85E0-4992-8099-FDBEF58024EF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "9375D5E3-E233-4084-B9FB-A26C056DC8A1"
-    },
-    {
-      "class": "shapeGroup",
       "id": "A26DEB15-45B9-4D4C-85B4-31353CE6F37E"
     },
     {
-      "class": "shapeGroup",
-      "id": "629E6D0F-A07E-4EA5-AF73-56996955FC2A"
+      "class": "group",
+      "id": "9CBD75E2-393B-49AE-9567-E6F31019F04E"
     },
     {
-      "class": "shapeGroup",
-      "id": "79E2545F-BE0F-468F-89DE-1A05FDCBC6EA"
+      "class": "group",
+      "id": "8B44AAE7-0B3D-47CC-B982-FD29C527F0C7"
     },
     {
-      "class": "shapeGroup",
-      "id": "B950C2B3-5233-4F4C-97BC-B824A45CA63B"
+      "class": "group",
+      "id": "DCB409E2-D1E9-4424-9586-BCF502EAB7CD"
     },
     {
-      "class": "shapeGroup",
-      "id": "76C5DBF7-FB8B-4D4C-BF24-615BAB2D0AE1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "75B09C62-63CB-4636-BA82-F351B70C30D3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "77522ED5-4B63-43C4-B1DE-C638EF52F33D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "02B3FE80-25A1-4FD3-B8EB-B587F893ADF8"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "4E05CF75-8C29-4994-B6FC-62D15992A1C7"
+      "class": "group",
+      "id": "315C44F2-22D9-4B66-9E16-12F4FD2995FF"
     }
   ],
   "name": "Artboard 4",

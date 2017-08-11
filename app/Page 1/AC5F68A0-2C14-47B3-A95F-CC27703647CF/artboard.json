@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "D2684F93-0B6C-4424-88E5-9679CF17865E",
+  "do_objectID": "AC5F68A0-2C14-47B3-A95F-CC27703647CF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,20 +20,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 1805,
-    "y": 89
+    "height": 155,
+    "width": 155,
+    "x": 2175,
+    "y": 1773
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      21,
-      354,
-      29
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -42,47 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "05855E29-EC09-4A91-8B2C-F9ABB13EF2B1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0050154C-CAF1-45A7-8A62-F7AFDB6AFBE1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A37CFE5B-8988-4C24-997C-B8C7E4E691AF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "86B99453-2EA0-4DEE-8A29-B8AC03448ECB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "524F2B81-70AC-45A1-8252-CF2AE0453843"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6B0587B0-22EF-43DF-A4F7-1A30C7BD2E8A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B9D8D446-7A24-4FFD-961D-3880C98CDA3C"
-    },
-    {
       "class": "group",
-      "id": "50A9E49B-3201-4E46-A346-D80F48BA6E1B"
-    },
-    {
-      "class": "text",
-      "id": "3A5906EA-E9F1-44A0-9A7C-ED02B5FD07F5"
+      "id": "77249BAE-958B-4CDA-8DD6-F6E93E27C20F"
     }
   ],
-  "name": "route selected copy 3",
-  "nameIsFixed": true,
+  "name": "Artboard 6",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -103,8 +68,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      618,
-      639
     ]
   }
 }
