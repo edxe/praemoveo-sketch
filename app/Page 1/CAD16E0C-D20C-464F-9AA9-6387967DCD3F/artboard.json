@@ -26,7 +26,7 @@
     "y": 89
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -166,6 +166,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      115.3274336283186
     ]
   }
 }

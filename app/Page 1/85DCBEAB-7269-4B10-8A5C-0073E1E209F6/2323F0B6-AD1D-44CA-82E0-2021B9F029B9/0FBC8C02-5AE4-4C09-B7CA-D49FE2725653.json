@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
-    "width": 375.0000000000008,
+    "height": 120,
+    "width": 375,
     "x": 0,
     "y": 0
   },
