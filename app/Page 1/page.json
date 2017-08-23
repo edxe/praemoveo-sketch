@@ -54,6 +54,10 @@
     },
     {
       "class": "artboard",
+      "id": "CEAFCE26-B84F-4804-84CE-A19F19F2895C"
+    },
+    {
+      "class": "artboard",
       "id": "D2684F93-0B6C-4424-88E5-9679CF17865E"
     },
     {
@@ -127,6 +131,10 @@
     {
       "class": "bitmap",
       "id": "86E4A387-8632-4CAC-9365-4C91518A9C80"
+    },
+    {
+      "class": "bitmap",
+      "id": "1CF9E486-23B2-47D2-AA19-5B69B78F04A5"
     }
   ],
   "name": "Page 1",

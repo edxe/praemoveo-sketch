@@ -98,6 +98,14 @@
     {
       "class": "text",
       "id": "763FDA61-4391-4431-93EC-8A08DB772157"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "967D4472-B218-4BF8-9FDA-547D807AD3A6"
+    },
+    {
+      "class": "text",
+      "id": "4851AA9D-3FD8-4CAA-AA4A-708A9F7A7AB7"
     }
   ],
   "name": "confirmacion-pago",

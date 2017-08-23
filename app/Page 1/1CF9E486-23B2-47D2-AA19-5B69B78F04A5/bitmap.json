@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "86243461-6578-48C3-81A1-CCD5CE0F0842",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "1CF9E486-23B2-47D2-AA19-5B69B78F04A5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,32 +11,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 25,
-    "width": 100,
-    "x": 244,
-    "y": 165
+    "constrainProportions": true,
+    "height": 300,
+    "width": 400,
+    "x": 462,
+    "y": 200
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7990101e7a75a66fcefdc9b283f1b2edafb65399",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "text",
-      "id": "D5CAD532-B745-41BD-AD9F-97C929C1327E"
-    },
-    {
-      "class": "bitmap",
-      "id": "BF3B9758-4503-4C5C-ADF7-37DB6B201BC3"
-    }
-  ],
-  "name": "Group 5",
+  "name": "parkeergebied-app-icon-by-yummygum",
   "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

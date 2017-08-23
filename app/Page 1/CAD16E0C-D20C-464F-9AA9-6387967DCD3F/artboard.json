@@ -46,12 +46,8 @@
       "id": "5BE92C08-4E53-4A0D-ACC7-04B7407C62B5"
     },
     {
-      "class": "shapeGroup",
-      "id": "E69BF245-EAB2-4F62-B298-B47A3C973593"
-    },
-    {
-      "class": "group",
-      "id": "86243461-6578-48C3-81A1-CCD5CE0F0842"
+      "class": "symbolInstance",
+      "id": "B0668FEA-9284-4850-8D48-54224BC45079"
     },
     {
       "class": "text",
@@ -94,10 +90,6 @@
       "id": "D8D60442-12A6-48B7-A7FE-274D39CC9301"
     },
     {
-      "class": "shapeGroup",
-      "id": "57A5A76A-28B5-45A4-B533-676CE4A6B9FA"
-    },
-    {
       "class": "text",
       "id": "4DB89547-CF35-402D-AA1A-100426D349FC"
     },
@@ -124,6 +116,10 @@
     {
       "class": "text",
       "id": "8DDC5ED1-EE71-486C-BD0B-6813D32494DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "931EF912-4BB9-4F04-BCE3-63F45FFAFEF4"
     }
   ],
   "name": "Pago",
@@ -166,7 +162,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      115.3274336283186
     ]
   }
 }

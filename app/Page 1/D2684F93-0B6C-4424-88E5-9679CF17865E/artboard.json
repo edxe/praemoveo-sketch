@@ -79,6 +79,30 @@
     {
       "class": "text",
       "id": "3A5906EA-E9F1-44A0-9A7C-ED02B5FD07F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09A1988F-E525-4636-AF4E-CDDC4E87C594"
+    },
+    {
+      "class": "text",
+      "id": "3FAE3A77-7986-4178-A398-0BDBA96F80CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6568B06-6D77-4966-A37C-B71C3B2C0B93"
+    },
+    {
+      "class": "text",
+      "id": "033C6C65-2F40-417E-9FA7-B40922DFD840"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BFD267E-E5D9-4A61-807F-BCEF8BDC2C39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F69CD670-0A07-4A98-B759-EAD2F578A145"
     }
   ],
   "name": "route-selector-pin",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 5,
   "do_objectID": "76654EF0-2704-4161-819A-4CD234F6AF8A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,8 +44,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "8C5D23BD-D381-4235-9419-08B2A3F07484"
+      "class": "shapeGroup",
+      "id": "9C6FAF8A-66D0-4F8D-B301-E99AD0478E56"
+    },
+    {
+      "class": "text",
+      "id": "CE8027DC-7B1F-4793-99D2-474D35B53363"
+    },
+    {
+      "class": "text",
+      "id": "EFD0C654-4201-49AF-B1D1-378B7B883344"
     }
   ],
   "name": "wait-time-widget",

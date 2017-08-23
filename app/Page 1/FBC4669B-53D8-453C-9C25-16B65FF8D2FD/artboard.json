@@ -60,6 +60,10 @@
     {
       "class": "symbolInstance",
       "id": "090CC677-2EBF-446F-81DF-292B35F3A22E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BD56483-D087-465D-A0F7-ABF7BA8A8355"
     }
   ],
   "name": "route-schedule-detail 1",
