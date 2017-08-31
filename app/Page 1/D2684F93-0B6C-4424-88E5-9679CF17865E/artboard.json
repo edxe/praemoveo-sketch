@@ -103,6 +103,10 @@
     {
       "class": "shapeGroup",
       "id": "F69CD670-0A07-4A98-B759-EAD2F578A145"
+    },
+    {
+      "class": "bitmap",
+      "id": "C3879BC8-4059-4C66-9AD3-7AE240C4897A"
     }
   ],
   "name": "route-selector-pin",

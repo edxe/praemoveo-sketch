@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -84,10 +84,6 @@
     {
       "class": "text",
       "id": "6F9FCA36-2EC6-46BE-89F1-3CBCCDAFEB4F"
-    },
-    {
-      "class": "text",
-      "id": "9C1476F6-B506-4DC1-809B-62D7E6EAB54D"
     }
   ],
   "name": "route-schedule-detail",

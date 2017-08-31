@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 35,
   "do_objectID": "B6294D71-169C-4F5D-AABE-958248DF8B46",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,6 +46,10 @@
     {
       "class": "shapeGroup",
       "id": "0A721277-C708-4DD5-AF69-2EE3CDA9E863"
+    },
+    {
+      "class": "bitmap",
+      "id": "30C552B3-6E02-4314-8D6B-5E00F6A4B0D0"
     },
     {
       "class": "shapeGroup",
@@ -110,6 +114,11 @@
     "startDecorationType": 0
   },
   "symbolID": "4619AEC7-570E-4F5F-96DD-31884979E91A",
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

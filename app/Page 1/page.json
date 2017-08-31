@@ -34,14 +34,6 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "AC5F68A0-2C14-47B3-A95F-CC27703647CF"
-    },
-    {
-      "class": "artboard",
-      "id": "89F3B55D-0501-4E7C-A997-5EFB8F4EFD0B"
-    },
-    {
-      "class": "artboard",
       "id": "CDF3E8F5-380A-4351-9352-835F7A7A38C9"
     },
     {
@@ -51,6 +43,10 @@
     {
       "class": "artboard",
       "id": "BA54D25C-111F-4952-8BF6-0A5FDFE83A2A"
+    },
+    {
+      "class": "artboard",
+      "id": "1926285D-06CE-4B81-BB53-79B61533FA21"
     },
     {
       "class": "artboard",
@@ -74,18 +70,6 @@
     },
     {
       "class": "artboard",
-      "id": "1A38390A-41EA-4D7A-89C3-6F51636BDC98"
-    },
-    {
-      "class": "artboard",
-      "id": "68FAA8F1-3064-4695-85B2-2D26C30FB444"
-    },
-    {
-      "class": "artboard",
-      "id": "0E822ACF-E138-4BE5-B3AC-71CC44AC4055"
-    },
-    {
-      "class": "artboard",
       "id": "9401B4B9-BE32-4CF2-8820-1703A3ECCC63"
     },
     {
@@ -98,23 +82,11 @@
     },
     {
       "class": "artboard",
-      "id": "9CF3B782-7C63-43D1-BB05-26D6EFE5B7ED"
-    },
-    {
-      "class": "artboard",
       "id": "D0C76B8C-DDEC-485C-A0DB-DFCCE76F0FDC"
     },
     {
       "class": "artboard",
-      "id": "FDF967DE-F567-4425-B3C1-09E445777BEF"
-    },
-    {
-      "class": "artboard",
       "id": "CAD16E0C-D20C-464F-9AA9-6387967DCD3F"
-    },
-    {
-      "class": "artboard",
-      "id": "0B03DB36-B5E1-4507-982B-E138CA5E9A41"
     },
     {
       "class": "bitmap",
@@ -126,15 +98,11 @@
     },
     {
       "class": "bitmap",
-      "id": "0EFC0351-973D-42CB-BE3D-824B58574955"
-    },
-    {
-      "class": "bitmap",
-      "id": "86E4A387-8632-4CAC-9365-4C91518A9C80"
-    },
-    {
-      "class": "bitmap",
       "id": "1CF9E486-23B2-47D2-AA19-5B69B78F04A5"
+    },
+    {
+      "class": "artboard",
+      "id": "5D786767-51ED-4B9C-A57D-7E200908745F"
     }
   ],
   "name": "Page 1",
