@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "1CF9E486-23B2-47D2-AA19-5B69B78F04A5",
+  "do_objectID": "1C92CB2F-13E8-4E67-ADB9-8FE148CB29E9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 300,
-    "width": 400,
-    "x": 462,
-    "y": 200
+    "height": 383,
+    "width": 657,
+    "x": -144.9999999999999,
+    "y": 61
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/7990101e7a75a66fcefdc9b283f1b2edafb65399",
+    "_ref": "images/e63420bb2b3dbb6ab20001ab9b83fc47c769925b",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "parkeergebied-app-icon-by-yummygum",
+  "name": "Screen Shot 2017-09-13 at 7.11.08 PM",
   "nameIsFixed": false,
   "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
   "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -90,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "userInfo": {
-    "com.sketchapp.slinky-plugin": {
-      "hrefURL": ""
-    }
   }
 }

@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "9DE886A9-3052-4973-9D2F-B12937E62870",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -529,
+    "y": 852
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EA95B225-333C-41C5-9E2C-FDEB1EEA2727"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F945DFE7-2A73-4C60-A987-77C900AC6022"
+    },
+    {
+      "class": "group",
+      "id": "7B20718E-E650-4949-983B-DD64D0DCFD29"
+    },
+    {
+      "class": "group",
+      "id": "F837183E-D193-4710-ABD0-30B183945D2F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB8182E2-2A1E-4A86-B443-CFD6DF68D6C6"
+    },
+    {
+      "class": "group",
+      "id": "C7856546-5F27-408B-A88D-5BF4EF35790A"
+    },
+    {
+      "class": "group",
+      "id": "3EE285D9-9968-4D97-B8C3-BDA35F5E1E93"
+    },
+    {
+      "class": "group",
+      "id": "21EA12BE-B9DB-4478-BABA-17A11551F78D"
+    },
+    {
+      "class": "group",
+      "id": "76293791-6C08-4D4B-9ADA-A72451D5FB25"
+    },
+    {
+      "class": "group",
+      "id": "E11F187B-4AE8-4843-915E-A6D7E5D943A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DDE7697-8E71-487D-9B9C-94DE974334F2"
+    },
+    {
+      "class": "group",
+      "id": "D864B548-1356-42FF-8701-72FAB86CBDDD"
+    }
+  ],
+  "name": "select route",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
