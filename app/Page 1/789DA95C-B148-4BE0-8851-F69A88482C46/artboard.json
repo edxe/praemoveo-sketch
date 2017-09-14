@@ -1,0 +1,155 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.5098039215686274,
+    "green": 0.4784313725490196,
+    "red": 0.3529411764705882
+  },
+  "do_objectID": "789DA95C-B148-4BE0-8851-F69A88482C46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -2463,
+    "y": 848
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D110D85F-C463-4970-BA20-733C2B2C4BE5"
+    },
+    {
+      "class": "text",
+      "id": "9F91BAA7-F10D-4658-A536-1F41B6B70F78"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B0B9742-2F1C-4D55-A047-D5DDB303F54A"
+    },
+    {
+      "class": "text",
+      "id": "F5AA51B5-02B5-4F30-841A-F121EF489360"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38495A89-6A9B-4ABA-BB27-878CFF5D902E"
+    },
+    {
+      "class": "text",
+      "id": "E30A2EFB-55BD-4FB7-BD6C-2853F2285CC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4251CEFB-31D0-4758-8BF8-D80BE3466785"
+    },
+    {
+      "class": "text",
+      "id": "480E822A-36E1-4490-94EA-9F3C17ED3B3F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DBDDD908-3E1E-44DF-86A6-FEDC5D126430"
+    },
+    {
+      "class": "text",
+      "id": "18E5F385-834A-4D9A-B625-9AE40B5256C5"
+    },
+    {
+      "class": "text",
+      "id": "D1853CB7-AA7C-4BD4-9A45-AA8B7635D186"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FD6480C-3C28-4AD4-86BF-2165F6089309"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03C20F53-1E24-404B-B32E-CF34CE1E1BE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16F378DD-D5F0-4DD4-A8D1-1C0EA0C6560B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6EF58ED0-5337-4404-B20A-5460C41F6BE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7117F2E5-5540-4DD3-86C2-68D0FF0E1038"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "845CE477-83DE-466A-A72D-BF0EBAA5817A"
+    }
+  ],
+  "name": "menu-view",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
