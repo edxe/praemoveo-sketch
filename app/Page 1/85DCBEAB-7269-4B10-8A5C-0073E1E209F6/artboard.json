@@ -31,8 +31,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      28,
-      347
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -41,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

@@ -68,6 +68,10 @@
     {
       "class": "shapeGroup",
       "id": "B6E7D563-90E3-424F-9FE7-1845FC874025"
+    },
+    {
+      "class": "text",
+      "id": "4CC476BD-8F5C-402A-9A3D-827A1A9D14DE"
     }
   ],
   "name": "cell ",

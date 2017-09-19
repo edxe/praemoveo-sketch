@@ -30,16 +30,12 @@
       "id": "3A7BD8B0-DE9C-4AC5-A9A3-9E03295C45D6"
     },
     {
-      "class": "shapeGroup",
-      "id": "5E1B156F-A295-4E52-9D38-14E8E90D733F"
-    },
-    {
       "class": "text",
       "id": "9977E4A9-21B5-4DF4-9F6C-49420E730A45"
     },
     {
-      "class": "group",
-      "id": "16FB6B93-CEB2-4C52-9C07-69B7E0143E61"
+      "class": "text",
+      "id": "8131F68C-87D4-42E9-8BC7-A2EEF15144A4"
     }
   ],
   "name": "header",

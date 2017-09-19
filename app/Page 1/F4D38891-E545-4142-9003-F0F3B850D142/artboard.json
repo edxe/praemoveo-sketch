@@ -26,7 +26,7 @@
     "y": 854
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,11 +39,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
       "id": "A266DCAC-96FE-43C8-9324-35DDD6D49EB0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98695046-8731-49ED-9F25-AC717A61925A"
+    },
+    {
+      "class": "text",
+      "id": "CE401AA9-8919-4E86-A339-89196601CD67"
     }
   ],
   "name": "routes",

@@ -30,20 +30,20 @@
       "id": "22801288-F646-4F50-AB1F-E234515A6708"
     },
     {
-      "class": "shapeGroup",
-      "id": "688D02D4-3553-4E13-A513-2231FA639408"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "72809179-1367-4026-AB3A-A97BCE876AAA"
-    },
-    {
-      "class": "text",
-      "id": "CFE99324-0AAD-4E8D-9C3A-497BBFF84A2B"
+      "class": "symbolInstance",
+      "id": "753785C8-D6F7-42DA-B4E4-E91BFB985E66"
     },
     {
       "class": "text",
       "id": "585F42AD-45A4-42DF-A0F8-C1EF71514314"
+    },
+    {
+      "class": "text",
+      "id": "E648F334-3560-4983-9858-A54F1A2A9BA2"
+    },
+    {
+      "class": "text",
+      "id": "BE1A7B91-9021-49DD-B699-73AC6CB9BB26"
     }
   ],
   "name": "Group 2",

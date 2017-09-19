@@ -16,7 +16,7 @@
     "height": 40,
     "width": 375,
     "x": 0,
-    "y": 600
+    "y": 604
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -35,7 +35,11 @@
     },
     {
       "class": "text",
-      "id": "5B7DFE83-92D9-4050-A2FD-684413EBE353"
+      "id": "350260EC-93DB-475C-8899-AF12FCED5D2C"
+    },
+    {
+      "class": "text",
+      "id": "60B65730-DA2A-4587-96EE-8866D09DF02C"
     }
   ],
   "name": "Group",

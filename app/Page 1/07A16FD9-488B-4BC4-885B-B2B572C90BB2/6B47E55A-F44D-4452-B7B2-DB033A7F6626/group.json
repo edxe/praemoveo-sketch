@@ -16,14 +16,14 @@
     "height": 40,
     "width": 375,
     "x": 0,
-    "y": 561
+    "y": 565
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -35,7 +35,11 @@
     },
     {
       "class": "text",
-      "id": "C822062A-FEB4-4B46-A968-1F7EF6645BE6"
+      "id": "49984172-90F1-48D7-AC5B-F18118A7FA74"
+    },
+    {
+      "class": "text",
+      "id": "0F1B4C55-AED5-40E7-A11D-3B6847537CE3"
     }
   ],
   "name": "Group",
