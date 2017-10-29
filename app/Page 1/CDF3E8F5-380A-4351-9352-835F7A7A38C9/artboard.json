@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -1533,
-    "y": -763
+    "x": -2463,
+    "y": -493
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,15 +42,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "EE02A61A-3670-43B3-9E93-AC19D3AB4E8D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "544D1F1C-15C8-4925-A271-79276024A9A8"
     },
     {
       "class": "symbolInstance",

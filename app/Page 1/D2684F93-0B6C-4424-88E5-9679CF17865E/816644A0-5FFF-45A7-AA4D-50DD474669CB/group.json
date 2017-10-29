@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "816644A0-5FFF-45A7-AA4D-50DD474669CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 343,
+    "x": 12,
+    "y": 586
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BFA1FBC6-1B88-474A-A809-19C863348CBF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA6ABB40-49A5-4699-8E67-7AC43E2553A1"
+    },
+    {
+      "class": "text",
+      "id": "E0AD0212-F9AE-41D9-BB55-344CC57122C5"
+    },
+    {
+      "class": "text",
+      "id": "4C350C88-9B0C-4CEE-808B-CD4C00364A5F"
+    },
+    {
+      "class": "text",
+      "id": "5AC07C26-601D-4E84-B151-410B9AF10B5F"
+    },
+    {
+      "class": "text",
+      "id": "2EEED656-F643-4831-86C7-EF9443E18FB6"
+    },
+    {
+      "class": "text",
+      "id": "6C8C2AA7-9FAD-4265-9014-AAC7A3D7C2D6"
+    },
+    {
+      "class": "text",
+      "id": "F45963C6-511C-402E-A5FF-E9B135051DE7"
+    },
+    {
+      "class": "bitmap",
+      "id": "659E038C-DC6B-401D-99B3-FB8C56F76376"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

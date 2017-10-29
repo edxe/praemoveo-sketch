@@ -1,0 +1,107 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "61611DCD-AA1F-4EEE-AB68-F60BCB5EEEA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16.8,
+    "width": 18,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "694451A5-7F1C-4F17-9474-71BC5705B0D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "A4465451-ABC3-4F55-A8C9-BDD28523E3C4"
+    },
+    {
+      "class": "shapePath",
+      "id": "A9C56220-DCE0-4C86-A376-7A85DA75E884"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFFE9743-DEC3-43D2-9CD8-14F067A1543E"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA63EFA9-1067-49C8-8F2A-92D266812BB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "9218A280-ED96-4F78-BE3E-F45582EBACD0"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D4475D9-B86C-496F-BDC6-80DA836247B6"
+    },
+    {
+      "class": "shapePath",
+      "id": "8428AD17-C46F-4E68-8BDE-4607B3AE2CB8"
+    },
+    {
+      "class": "shapePath",
+      "id": "C55431D5-39D0-4C45-91CC-2DC60577B794"
+    },
+    {
+      "class": "shapePath",
+      "id": "9566679D-B4C6-4BA0-B173-BF218184BBCF"
+    }
+  ],
+  "name": "Basket 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7519664115646258,
+          "green": 0.7519664115646258,
+          "red": 0.7519664115646258
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "windingRule": 1
+}

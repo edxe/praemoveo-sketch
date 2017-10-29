@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 38,
     "width": 392,
-    "x": -535,
-    "y": 2444
+    "x": 94.99999999999977,
+    "y": 4916
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -82,6 +82,11 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
   },
   "windingRule": 1
 }

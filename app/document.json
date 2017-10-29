@@ -14,6 +14,7 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "B78BFC14-AC3C-434F-9AE4-23AC7E39AAB5",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
@@ -24,10 +25,6 @@
     "objects": [
     ]
   },
-  "pages": [
-    "Page 1",
-    "Symbols"
-  ],
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"

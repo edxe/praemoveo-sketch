@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -1029,
-    "y": 1619
+    "x": -399,
+    "y": 4091
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -86,6 +86,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
