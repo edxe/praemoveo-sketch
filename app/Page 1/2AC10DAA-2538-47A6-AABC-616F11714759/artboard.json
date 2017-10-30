@@ -26,7 +26,7 @@
     "y": -622
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -79,6 +79,10 @@
     {
       "class": "shapeGroup",
       "id": "036AFE8A-DA02-44F9-92A5-3E52D79D95E7"
+    },
+    {
+      "class": "text",
+      "id": "9E492BA2-EC3B-4AFA-8E13-FF65D9AE08E7"
     }
   ],
   "name": "route-selector-pin copy 3",

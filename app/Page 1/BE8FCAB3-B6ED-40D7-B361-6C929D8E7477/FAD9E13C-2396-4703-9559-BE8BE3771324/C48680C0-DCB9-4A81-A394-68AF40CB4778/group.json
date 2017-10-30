@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "C48680C0-DCB9-4A81-A394-68AF40CB4778",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 85,
+    "x": 10,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E8B14DA6-FADE-47E4-A0D5-7EDE13C69FAE"
+    },
+    {
+      "class": "text",
+      "id": "BC0FE49D-4629-40EF-BFFC-C058336D8D27"
+    },
+    {
+      "class": "text",
+      "id": "AC621C75-1345-42B0-A0B6-96A63CBDAF4D"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

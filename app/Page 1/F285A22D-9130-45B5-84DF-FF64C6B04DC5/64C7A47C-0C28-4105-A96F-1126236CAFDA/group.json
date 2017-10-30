@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "64C7A47C-0C28-4105-A96F-1126236CAFDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 158,
+    "width": 365,
+    "x": 5,
+    "y": 604
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2CC4151F-9285-44F2-B490-73A5ADAEA5ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "823C28E7-F163-4C93-9E38-528C9F449D09"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CBD3CA6D-F883-4841-A5E2-5503D4B59AA5"
+    },
+    {
+      "class": "group",
+      "id": "E26948FA-6703-4811-B1EE-EF5C272657D7"
+    },
+    {
+      "class": "group",
+      "id": "ED594D49-C086-4A56-96E6-0CAFF1E81E36"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E122D1C7-E432-4AAD-94B5-2B33BEC9878B"
+    }
+  ],
+  "name": "Group 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  }
+}

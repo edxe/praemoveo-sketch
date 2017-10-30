@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F285A22D-9130-45B5-84DF-FF64C6B04DC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 435,
+    "y": -311
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      21,
+      354,
+      29
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EC35E300-4AD0-40A2-B7BC-C6E9809AF476"
+    },
+    {
+      "class": "text",
+      "id": "CF8D891E-593F-4271-B696-263DB526A238"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02CD700C-347B-4C2F-8F2D-87BAF3C84AC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BDDDCCFC-F8F8-4370-8507-1449D583D445"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F2A07F6-11E8-4E93-9D94-D38FB81128C3"
+    },
+    {
+      "class": "group",
+      "id": "64C7A47C-0C28-4105-A96F-1126236CAFDA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4A1584C-3708-4038-A9C4-D44950B2D1CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B04376F-D95B-4266-A1AB-F4976B3D25DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "723D0A09-E4D4-43C4-A4F5-460E249E40DD"
+    },
+    {
+      "class": "text",
+      "id": "12DAEB4B-9595-4F96-AF4B-799FB64EC650"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B717A310-9947-438C-ACF1-B4289E3FC35E"
+    }
+  ],
+  "name": "route-selector-pin copy 4",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      618,
+      639
+    ]
+  }
+}
