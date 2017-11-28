@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 71,
-    "width": 365,
-    "x": 5,
-    "y": 592
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 587
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -92,7 +92,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0

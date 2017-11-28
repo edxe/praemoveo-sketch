@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1256,
+  "changeIdentifier": 1261,
   "do_objectID": "919EAD8A-9237-4FC2-91FC-EDCDA560F483",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,7 +32,10 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      190
+      190,
+      31,
+      5,
+      26
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -96,6 +99,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      -62,
+      -40
     ]
   }
 }

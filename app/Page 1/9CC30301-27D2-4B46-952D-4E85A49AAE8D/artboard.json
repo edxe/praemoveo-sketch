@@ -68,6 +68,10 @@
       "id": "69A626E8-23D8-4D9C-A535-E748C666DAF9"
     },
     {
+      "class": "group",
+      "id": "6926BE55-BB8C-4F9A-A911-DD4A21B79929"
+    },
+    {
       "class": "shapeGroup",
       "id": "7B24E760-B53C-4A7D-BFE3-5128C2F45BA2"
     },
@@ -109,6 +113,10 @@
     },
     {
       "class": "group",
+      "id": "A877600F-A842-4FCA-A3D3-2A557C32920E"
+    },
+    {
+      "class": "group",
       "id": "D6B73940-C4AF-4D6B-A56C-036F29E2C659"
     },
     {
@@ -130,6 +138,10 @@
     {
       "class": "symbolInstance",
       "id": "234E874A-FEB7-43ED-BE26-9020891B3AB8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25DACFD7-983E-49E1-A5B5-A1C6D87EB3C0"
     }
   ],
   "name": "init: [state] (1b)",

@@ -58,6 +58,14 @@
       "id": "AE323802-3A72-4749-A3C2-378A7095045B"
     },
     {
+      "class": "shapeGroup",
+      "id": "C8663452-B5AB-41BC-98FD-66803D926C29"
+    },
+    {
+      "class": "bitmap",
+      "id": "D87953D2-54D5-4253-B481-CD6853E96A05"
+    },
+    {
       "class": "symbolInstance",
       "id": "4FD8DED2-8565-4F6D-A72F-0B33748BF856"
     },
@@ -132,6 +140,10 @@
     {
       "class": "shapeGroup",
       "id": "27594BDD-6FB5-427C-ABF5-6EA6CDDA00FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BFE8AFD-4648-447A-BE23-3C50B3A4C04F"
     }
   ],
   "name": "iPhone 8",
