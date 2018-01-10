@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7D9F2424-5A3A-4A52-B884-E4288EE64B5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 377,
+    "x": -0.5,
+    "y": 342
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "route-eta copy 3",
+  "nameIsFixed": false,
+  "overrides": {
+    "2921CEB1-64BD-41A7-9296-8712618E09A6": {
+      "05C77E77-310E-4E40-A846-0469B0E43832": "San Lorenzo",
+      "754DD870-78B6-4B3A-B785-13A81A9C5C5E": {
+        "symbolID": "05A92192-BEE0-4832-8BF9-1BD67E275019"
+      }
+    },
+    "E1E0A173-C649-49D1-A852-3C005394855C": {
+      "symbolID": "05A92192-BEE0-4832-8BF9-1BD67E275019"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "45970382-1551-4953-992F-B1C048B33A78",
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "verticalSpacing": 0
+}

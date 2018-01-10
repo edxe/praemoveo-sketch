@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "25302024-043C-4844-9726-AF1856D27DE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -399,
+    "y": 4091
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4D817D03-90DB-41F4-9A74-6E2DAB9B5859"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B295A55D-CB7A-4252-9FF7-7D34D16CD720"
+    },
+    {
+      "class": "group",
+      "id": "4FB4670A-080B-4613-9E2F-439463B35F12"
+    },
+    {
+      "class": "group",
+      "id": "E75FE56C-02FE-4B04-AA27-AF67E9BD6122"
+    },
+    {
+      "class": "group",
+      "id": "DFE4F37E-AE22-4C90-8FEE-6AAA5D76CF9C"
+    },
+    {
+      "class": "group",
+      "id": "D35ED853-ACD6-43AA-B24A-FE341F1777D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C9FF10B-6605-437B-9703-C0B0E4562B2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63505B5E-3345-4E92-8DD0-D9D2CDFFB181"
+    }
+  ],
+  "name": "in terminal",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "52598A82-0BDA-4199-B270-A426A60AB327",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -399,
+    "y": 3326
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BDAE0621-5EEA-4D94-AB28-AFED031F6774"
+    },
+    {
+      "class": "group",
+      "id": "B0D1BCB6-DB6A-4A81-80D9-4B8519028F17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38160BC5-6096-4D12-A10C-EECBDB8002E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B9D7439-E1F6-48DF-B2EF-FB42D4E28271"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A257A2A8-4FC9-49AA-BE3F-ADD200E64C9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1EE2634-0910-42B4-85BC-6A9F400B37DB"
+    },
+    {
+      "class": "text",
+      "id": "831126C3-27D9-4408-9BB2-09CD88C7419E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC431A51-4CBC-486F-AABE-B9E24416CF5A"
+    },
+    {
+      "class": "text",
+      "id": "86EDEC8B-B30C-4BF8-99C1-C4FDC02D395D"
+    },
+    {
+      "class": "text",
+      "id": "C379A7DC-7C67-429A-B13F-4E413FE50A49"
+    }
+  ],
+  "name": "destination inputted",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

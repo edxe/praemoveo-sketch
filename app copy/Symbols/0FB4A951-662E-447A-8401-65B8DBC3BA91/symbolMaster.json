@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 447,
+  "do_objectID": "0FB4A951-662E-447A-8401-65B8DBC3BA91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 351,
+    "x": 10891,
+    "y": 95
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      190,
+      26,
+      5
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BB4FD121-53C8-447C-BFB5-E1376BA4D42A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "638B1910-8E07-4CBB-A01E-E1E6C6856C39"
+    },
+    {
+      "class": "text",
+      "id": "9E80B061-C848-41D9-85FD-91513E60C88C"
+    },
+    {
+      "class": "text",
+      "id": "41C26151-CA1D-4E86-93D9-481356932FED"
+    },
+    {
+      "class": "text",
+      "id": "52AE1A43-2C00-4B26-AEBD-747233DE9265"
+    },
+    {
+      "class": "text",
+      "id": "603B1AE2-8553-4B2A-9451-8E07A4602FDB"
+    },
+    {
+      "class": "text",
+      "id": "6B580CC2-5748-4999-BF9E-39BC6719469B"
+    },
+    {
+      "class": "text",
+      "id": "0466B4A6-A899-47BC-9DF9-ED391FD1A4E7"
+    },
+    {
+      "class": "bitmap",
+      "id": "31FC9ADD-DAAE-49FF-861A-E52BF9545436"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EB5617C-84F8-42C3-86D7-EBDDE6FAE9D7"
+    }
+  ],
+  "name": "row-rides-slider",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A25374A9-45E7-448F-B457-E1251AE001E7",
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      38,
+      16
+    ]
+  }
+}
