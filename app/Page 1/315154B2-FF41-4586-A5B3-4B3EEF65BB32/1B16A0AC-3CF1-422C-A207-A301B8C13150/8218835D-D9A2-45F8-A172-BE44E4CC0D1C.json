@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "paadas copy",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5DAEE1C6-29CA-4E7C-A75E-4E9C59C59CE3_symbolID",
+      "value": "A131C6BD-C3A9-4B09-9F21-A1CDAFD90850"
+    }
+  ],
   "overrides": {
     "5DAEE1C6-29CA-4E7C-A75E-4E9C59C59CE3": {
       "symbolID": "A131C6BD-C3A9-4B09-9F21-A1CDAFD90850"
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

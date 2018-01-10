@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 234,
     "width": 972,
-    "x": -2057,
-    "y": -1179
+    "x": -2097,
+    "y": -2320
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -164,7 +164,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

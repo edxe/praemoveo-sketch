@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "schedule-entry copy 3",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2A6FE52-325C-4638-9DDE-BE3FA079120A_stringValue",
+      "value": "6:45 PM"
+    }
+  ],
   "overrides": {
     "B2A6FE52-325C-4638-9DDE-BE3FA079120A": "6:45 PM"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -1,0 +1,97 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "55243962-E10D-42A0-A3EC-A4F8B159D468",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -901,
+    "y": 14
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5B34DDFC-1CB8-49DD-843A-7EDE37A2D51A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B80AE6FC-BB77-4E99-BD08-4F14EF30E9EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAFF3A54-1A1D-4679-9E9E-01BBB1AEF983"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A977994-1D63-464E-A6B7-3F60CCDC3877"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22A36908-92B8-4565-89EF-1B425FC75C5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2B31FD5-8F73-40D0-8B33-6E766418FBA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6627A6A-6791-4F4A-80E3-9491A365E924"
+    }
+  ],
+  "name": "route results",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

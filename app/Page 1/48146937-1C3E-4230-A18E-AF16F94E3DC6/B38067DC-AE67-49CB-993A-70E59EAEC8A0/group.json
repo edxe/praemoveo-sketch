@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "B38067DC-AE67-49CB-993A-70E59EAEC8A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 456,
+    "width": 343,
+    "x": 16,
+    "y": 105
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D13377EA-3293-4797-A03D-9A0C773B9BBC"
+    },
+    {
+      "class": "group",
+      "id": "DAF5DD3F-FFE4-484D-BBBF-326993D22E47"
+    },
+    {
+      "class": "group",
+      "id": "D84A32FA-2463-40DB-A08E-A7C9A5F54D2B"
+    },
+    {
+      "class": "text",
+      "id": "DC8087B9-F13D-46AD-913D-A92644FB7E53"
+    }
+  ],
+  "name": "time selection view",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

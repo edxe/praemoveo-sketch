@@ -1,0 +1,98 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "22A36908-92B8-4565-89EF-1B425FC75C5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 430,
+    "width": 377,
+    "x": -2,
+    "y": 200
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "guawas alrededor",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D95F609-DBA5-4CA0-936B-AB89BF9878A9_stringValue",
+      "value": "Rutas"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "044E1418-FC8E-4CD3-955F-3EA0D8F758C8/BF0777A1-B25D-489D-9BBE-A914B886685E_stringValue",
+      "value": "T4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4DA822AC-FA89-41B3-B6F3-343DAAF9B204/BF0777A1-B25D-489D-9BBE-A914B886685E_stringValue",
+      "value": "M16"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1FA1B94C-B867-4E23-A079-E73111BE15B7/BF0777A1-B25D-489D-9BBE-A914B886685E_stringValue",
+      "value": "P35"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4DA822AC-FA89-41B3-B6F3-343DAAF9B204/2CF02098-316C-4E1C-8C22-230B31D3D569_stringValue",
+      "value": "15"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1FA1B94C-B867-4E23-A079-E73111BE15B7/2CF02098-316C-4E1C-8C22-230B31D3D569_stringValue",
+      "value": "22"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "044E1418-FC8E-4CD3-955F-3EA0D8F758C8/2CF02098-316C-4E1C-8C22-230B31D3D569_stringValue",
+      "value": "10"
+    }
+  ],
+  "overrides": {
+    "044E1418-FC8E-4CD3-955F-3EA0D8F758C8": {
+      "2CF02098-316C-4E1C-8C22-230B31D3D569": "10",
+      "BF0777A1-B25D-489D-9BBE-A914B886685E": "T4"
+    },
+    "1FA1B94C-B867-4E23-A079-E73111BE15B7": {
+      "2CF02098-316C-4E1C-8C22-230B31D3D569": "22",
+      "BF0777A1-B25D-489D-9BBE-A914B886685E": "P35"
+    },
+    "3D95F609-DBA5-4CA0-936B-AB89BF9878A9": "Rutas",
+    "4DA822AC-FA89-41B3-B6F3-343DAAF9B204": {
+      "2CF02098-316C-4E1C-8C22-230B31D3D569": "15",
+      "BF0777A1-B25D-489D-9BBE-A914B886685E": "M16"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "710F0EE5-62E9-42CC-97B5-D11CDAC639E3",
+  "verticalSpacing": 0
+}

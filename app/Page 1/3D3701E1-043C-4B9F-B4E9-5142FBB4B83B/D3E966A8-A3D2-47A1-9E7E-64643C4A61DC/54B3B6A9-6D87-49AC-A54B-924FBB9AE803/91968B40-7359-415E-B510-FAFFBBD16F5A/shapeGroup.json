@@ -1,0 +1,91 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "91968B40-7359-415E-B510-FAFFBBD16F5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18.33333333333334,
+    "width": 20,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A7C3FBE4-C2E4-42F7-BE95-6A797CFD5E6E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B7B99647-4EB1-49E4-A42F-D0DA164A5913"
+    },
+    {
+      "class": "shapePath",
+      "id": "1005CA19-EA81-4369-8891-7DD404532D53"
+    },
+    {
+      "class": "shapePath",
+      "id": "2635F489-48F3-4BFB-93FB-477FDED1782F"
+    },
+    {
+      "class": "shapePath",
+      "id": "C67D163E-D98D-45F9-962B-243BEBC66E9B"
+    },
+    {
+      "class": "shapePath",
+      "id": "BBACAD43-00FB-46B4-99BF-14FB629EB941"
+    }
+  ],
+  "name": "Coffee cup 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.622698137279,
+          "green": 0.622698137279,
+          "red": 0.6252391581632653
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "windingRule": 1
+}

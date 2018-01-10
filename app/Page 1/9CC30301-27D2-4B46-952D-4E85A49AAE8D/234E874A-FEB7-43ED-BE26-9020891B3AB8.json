@@ -30,6 +30,23 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "row-rides-big copy 2",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8DD13374-40D5-440F-853E-E3D1FDBF74E9_stringValue",
+      "value": "Hacia Sagrado Corazón"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C83C304-50E4-4AEA-88D0-4D4C44E523B3_stringValue",
+      "value": "Largooo..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D361DFFD-B03B-4F9A-9B1D-5EE2DD2C31A2_stringValue",
+      "value": "2"
+    }
+  ],
   "overrides": {
     "1C83C304-50E4-4AEA-88D0-4D4C44E523B3": "Largooo...",
     "8DD13374-40D5-440F-853E-E3D1FDBF74E9": "Hacia Sagrado Corazón",
@@ -38,6 +55,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "schedule-entry copy 4",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EA440D22-BE88-46B3-808F-39CE38E2F245_symbolID",
+      "value": "D78728B2-6CD7-4D54-AA57-B7B9173DE414"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2A6FE52-325C-4638-9DDE-BE3FA079120A_stringValue",
+      "value": "7:00 PM"
+    }
+  ],
   "overrides": {
     "B2A6FE52-325C-4638-9DDE-BE3FA079120A": "7:00 PM",
     "EA440D22-BE88-46B3-808F-39CE38E2F245": {
@@ -39,6 +51,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

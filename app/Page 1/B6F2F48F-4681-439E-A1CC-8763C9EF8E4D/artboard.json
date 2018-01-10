@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -1263,
-    "y": 97
+    "x": -2328,
+    "y": 9
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -73,10 +73,6 @@
       "id": "4BE63D6C-B751-4592-B7CC-4E712038A181"
     },
     {
-      "class": "text",
-      "id": "6C919F1B-F077-4C93-89D6-730761958708"
-    },
-    {
       "class": "shapeGroup",
       "id": "2C42B5A6-F2A9-49AA-9995-D978CFC19B1E"
     },
@@ -85,13 +81,13 @@
       "id": "2F0235C2-0FF3-49F9-8A42-7CC311230F5D"
     }
   ],
-  "name": "route-selector-pin copy 2",
+  "name": "init in stop",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

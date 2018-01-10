@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -1758,
-    "y": -311
+    "x": -2328,
+    "y": 776
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,10 +47,6 @@
     {
       "class": "shapeGroup",
       "id": "A9FE5F1A-ADD2-4627-84A4-1BD66420107D"
-    },
-    {
-      "class": "text",
-      "id": "96AA9CAA-64EC-47E3-8F93-FE3FCA58C23D"
     },
     {
       "class": "symbolInstance",
@@ -81,13 +77,13 @@
       "id": "FDDB8EF0-5F3E-41B2-BE50-9E2CBA5D9B51"
     }
   ],
-  "name": "route-selector-pin copy 7",
+  "name": "init in terminal",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "3D3701E1-043C-4B9F-B4E9-5142FBB4B83B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -1378,
+    "y": 14
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      38,
+      249
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "30129994-E801-4E20-A883-AA5F93329CD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62534A60-5A57-4C32-B4F4-8C46AA24D3DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DC4A9FC-025D-4597-8B77-65ACE8B97AB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C10FB49-F65E-4A98-8A7D-4D2D3747F517"
+    },
+    {
+      "class": "group",
+      "id": "D3E966A8-A3D2-47A1-9E7E-64643C4A61DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8789BC2-8242-46D7-BDCB-93C535ADA105"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4AB0B73-06D9-4CE9-A80A-36426BF661AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18843340-0E15-4910-B8DF-5D33FCB71097"
+    }
+  ],
+  "name": "input suggestions ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      231,
+      237,
+      78,
+      283,
+      308
+    ]
+  }
+}

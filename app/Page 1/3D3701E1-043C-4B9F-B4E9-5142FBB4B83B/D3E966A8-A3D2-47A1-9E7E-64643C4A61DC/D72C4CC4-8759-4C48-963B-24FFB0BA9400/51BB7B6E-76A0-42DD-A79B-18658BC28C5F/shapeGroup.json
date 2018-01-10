@@ -1,0 +1,119 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "51BB7B6E-76A0-42DD-A79B-18658BC28C5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 18,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F8B8A1F5-90E8-46F3-A00F-FA09EBAEF758"
+    },
+    {
+      "class": "shapePath",
+      "id": "92CE8FF1-A50F-42CD-9628-7A2B263BCC33"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD1315CF-B9BA-4C24-845D-34BA640EC389"
+    },
+    {
+      "class": "shapePath",
+      "id": "5204A427-CCD6-465A-A9D2-BB19467CED9A"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E12A522-CA95-4296-8EFD-56461B13C83A"
+    },
+    {
+      "class": "shapePath",
+      "id": "0E435A0C-6821-4128-A6EC-8820D374881E"
+    },
+    {
+      "class": "shapePath",
+      "id": "A0334DB5-CA2F-4D25-8771-CBB0484BDEBF"
+    },
+    {
+      "class": "shapePath",
+      "id": "FCDEE4B4-B9A0-4307-AB37-7DCE65917EEC"
+    },
+    {
+      "class": "shapePath",
+      "id": "E80E6F4A-5682-455E-95BA-3672BE577BC1"
+    },
+    {
+      "class": "shapePath",
+      "id": "D59671D5-522F-4178-BD33-3D10E117EF26"
+    },
+    {
+      "class": "shapePath",
+      "id": "4687D067-DC53-459B-B5C6-35E0082E605C"
+    },
+    {
+      "class": "shapePath",
+      "id": "519317C9-A1A4-4D67-9304-501790CB04C9"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B3C1CDA-06BB-4541-BD34-469B165C572D"
+    }
+  ],
+  "name": "Store 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5321003401360545,
+          "green": 0.5321003401360545,
+          "red": 0.5321003401360545
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "windingRule": 1
+}

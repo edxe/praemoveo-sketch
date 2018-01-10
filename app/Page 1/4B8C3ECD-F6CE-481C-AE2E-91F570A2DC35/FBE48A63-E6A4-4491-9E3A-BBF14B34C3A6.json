@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "route-eta copy 2",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2921CEB1-64BD-41A7-9296-8712618E09A6/754DD870-78B6-4B3A-B785-13A81A9C5C5E_symbolID",
+      "value": "FC866326-AF74-4C7E-9033-0E51E2BF51BF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E1E0A173-C649-49D1-A852-3C005394855C_symbolID",
+      "value": "FC866326-AF74-4C7E-9033-0E51E2BF51BF"
+    }
+  ],
   "overrides": {
     "2921CEB1-64BD-41A7-9296-8712618E09A6": {
       "754DD870-78B6-4B3A-B785-13A81A9C5C5E": {
@@ -43,6 +55,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

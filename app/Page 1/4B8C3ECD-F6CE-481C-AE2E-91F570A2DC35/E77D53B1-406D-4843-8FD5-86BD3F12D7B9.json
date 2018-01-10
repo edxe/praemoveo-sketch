@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "route-eta copy",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2921CEB1-64BD-41A7-9296-8712618E09A6/05C77E77-310E-4E40-A846-0469B0E43832_stringValue",
+      "value": "Cagua"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E1E0A173-C649-49D1-A852-3C005394855C_symbolID",
+      "value": "D0BB83B0-AE30-4A14-B9D4-6CFE8A0A74A5"
+    }
+  ],
   "overrides": {
     "2921CEB1-64BD-41A7-9296-8712618E09A6": {
       "05C77E77-310E-4E40-A846-0469B0E43832": "Cagua"
@@ -41,6 +53,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

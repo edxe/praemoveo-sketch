@@ -30,6 +30,23 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "route-eta copy 3",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2921CEB1-64BD-41A7-9296-8712618E09A6/05C77E77-310E-4E40-A846-0469B0E43832_stringValue",
+      "value": "San Lorenzo"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2921CEB1-64BD-41A7-9296-8712618E09A6/754DD870-78B6-4B3A-B785-13A81A9C5C5E_symbolID",
+      "value": "05A92192-BEE0-4832-8BF9-1BD67E275019"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E1E0A173-C649-49D1-A852-3C005394855C_symbolID",
+      "value": "05A92192-BEE0-4832-8BF9-1BD67E275019"
+    }
+  ],
   "overrides": {
     "2921CEB1-64BD-41A7-9296-8712618E09A6": {
       "05C77E77-310E-4E40-A846-0469B0E43832": "San Lorenzo",
@@ -44,6 +61,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

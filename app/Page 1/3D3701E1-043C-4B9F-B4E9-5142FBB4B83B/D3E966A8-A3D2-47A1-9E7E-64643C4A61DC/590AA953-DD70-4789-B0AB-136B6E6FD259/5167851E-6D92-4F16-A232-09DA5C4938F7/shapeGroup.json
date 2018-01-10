@@ -1,0 +1,95 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "5167851E-6D92-4F16-A232-09DA5C4938F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14.66666666666667,
+    "width": 18,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E893A20C-AA3E-4C4B-B22E-90BEAADC5D16"
+    },
+    {
+      "class": "shapePath",
+      "id": "51817E5B-6669-4CD7-ACF3-01CB187FD4CD"
+    },
+    {
+      "class": "shapePath",
+      "id": "4EDE1FCB-1144-424A-9B4E-ABA748A5D3B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "7667A945-4DC1-4C89-85A6-B95561604F5E"
+    },
+    {
+      "class": "shapePath",
+      "id": "55BE87A1-25AE-49F9-8E9E-1943B1D6BD62"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB59188D-E123-4C66-8B5A-D2F47ECCA2F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "BD4D4BCD-DCBE-42A4-991F-4D62DF92FFC2"
+    }
+  ],
+  "name": "Hamburger 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6573660714285714,
+          "green": 0.6573660714285714,
+          "red": 0.6573660714285714
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchapp.slinky-plugin": {
+      "hrefURL": ""
+    }
+  },
+  "windingRule": 1
+}

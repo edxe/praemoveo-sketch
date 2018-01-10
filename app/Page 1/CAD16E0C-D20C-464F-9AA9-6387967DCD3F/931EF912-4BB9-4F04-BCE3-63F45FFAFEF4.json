@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "recharge-sale-counter",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9C7B5EAE-C97E-4896-A693-C89CBEBD5E48_stringValue",
+      "value": "2"
+    }
+  ],
   "overrides": {
     "9C7B5EAE-C97E-4896-A693-C89CBEBD5E48": "2"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

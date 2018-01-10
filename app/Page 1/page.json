@@ -54,10 +54,6 @@
     },
     {
       "class": "artboard",
-      "id": "8FE9EF66-1021-41AB-9306-5C6D4722A0B1"
-    },
-    {
-      "class": "artboard",
       "id": "9133EC8C-9E13-49B2-A4F4-31383CB9926F"
     },
     {
@@ -110,10 +106,6 @@
     },
     {
       "class": "artboard",
-      "id": "1529E296-C6BF-412D-9545-5BF29F8AD6C1"
-    },
-    {
-      "class": "artboard",
       "id": "A1019210-9E14-4E8D-ADDE-0DC33E308C37"
     },
     {
@@ -123,10 +115,6 @@
     {
       "class": "artboard",
       "id": "E4D253D4-1C22-43A2-A6C4-8BCAB8B96C9C"
-    },
-    {
-      "class": "artboard",
-      "id": "E0965F33-13FE-486A-B99C-8DCEF734C813"
     },
     {
       "class": "artboard",
@@ -158,27 +146,11 @@
     },
     {
       "class": "artboard",
-      "id": "789DA95C-B148-4BE0-8851-F69A88482C46"
-    },
-    {
-      "class": "artboard",
       "id": "66CE25AF-A76D-4718-A373-7FB9C28D6456"
     },
     {
       "class": "bitmap",
       "id": "0FB687FA-2763-463E-AB19-0B6E3EC43890"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "7EBE0373-6963-478B-A000-9DBBA0B1AFD3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8B2DCC68-B1BD-4F03-8A38-BD8820B5F966"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C4515F99-D70B-4AE5-82D6-ED8A677BA632"
     },
     {
       "class": "artboard",
@@ -203,6 +175,34 @@
     {
       "class": "artboard",
       "id": "3BF739F6-34BE-4C34-8F53-B8503E855F67"
+    },
+    {
+      "class": "artboard",
+      "id": "5F0B8CBD-5E43-4B69-B6C2-02A1991F0EBC"
+    },
+    {
+      "class": "artboard",
+      "id": "5365F4B8-8A00-4EA0-B850-013F484160C2"
+    },
+    {
+      "class": "artboard",
+      "id": "3D3701E1-043C-4B9F-B4E9-5142FBB4B83B"
+    },
+    {
+      "class": "artboard",
+      "id": "432D54B2-ADE6-41DA-B8F3-4FA3BA3EF883"
+    },
+    {
+      "class": "artboard",
+      "id": "DE33DE0C-9692-4D74-AFDC-68337F8E7B92"
+    },
+    {
+      "class": "artboard",
+      "id": "55243962-E10D-42A0-A3EC-A4F8B159D468"
+    },
+    {
+      "class": "artboard",
+      "id": "48146937-1C3E-4230-A18E-AF16F94E3DC6"
     }
   ],
   "name": "Page 1",

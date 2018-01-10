@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -661,
-    "y": -193
+    "x": -1378,
+    "y": 781
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -144,13 +144,13 @@
       "id": "25DACFD7-983E-49E1-A5B5-A1C6D87EB3C0"
     }
   ],
-  "name": "init: [state] (1b)",
+  "name": "input suggestions",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

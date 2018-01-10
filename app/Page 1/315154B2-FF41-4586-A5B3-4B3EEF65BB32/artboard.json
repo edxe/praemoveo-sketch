@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 355,
-    "x": -138,
-    "y": -193
+    "x": 524,
+    "y": 781
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -122,13 +122,13 @@
       "id": "E6D6C577-1B15-4C43-8616-3147B9A6E140"
     }
   ],
-  "name": "iPhone 8 Copy 2",
-  "nameIsFixed": false,
+  "name": "route detail",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
